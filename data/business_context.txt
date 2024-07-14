@@ -1,0 +1,11 @@
+Use-Case Name: Patient Admission Analysis
+Objective: Analyze patient admission data to understand trends, optimize resource allocation, and improve patient care.
+Business Context:
+- The hospital aims to improve operational efficiency by analyzing admission patterns, such as peak admission times and common medical conditions.
+- Insights from this analysis will help in better staffing decisions, ensuring adequate resources in high-demand wards.
+- Understanding patient demographics and medical conditions will aid in personalized patient care and treatment planning.
+- Regular analysis will monitor trends in readmission rates and patient outcomes, aiming for continuous improvement in healthcare services.
+Data Source:
+- Patient Admission Records: Contains detailed records of patient admissions, including patient demographics, medical conditions, and assigned doctors.
+- Format: CSV
+- Frequency: Updated daily

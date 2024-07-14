@@ -1,0 +1,21 @@
+Patient ID,Patient Name,Admission Date,Medical Condition,Assigned Doctor,Ward
+1,John Doe,2024-07-14,Fractured leg,Dr. Smith,Orthopedic Ward
+2,Jane Smith,2024-07-13,Appendicitis,Dr. Johnson,Surgical Ward
+3,Michael Brown,2024-07-12,Heart attack,Dr. Lee,Cardiology Ward
+4,Emily Davis,2024-07-11,Pneumonia,Dr. Wilson,Respiratory Ward
+5,David Martinez,2024-07-10,Diabetes,Dr. Garcia,Endocrinology Ward
+6,Sarah Wilson,2024-07-09,Concussion,Dr. Thompson,Neurology Ward
+7,James Moore,2024-07-08,Kidney Stones,Dr. Clark,Urology Ward
+8,Linda Taylor,2024-07-07,Stroke,Dr. Roberts,Neurology Ward
+9,Robert Anderson,2024-07-06,Appendicitis,Dr. Johnson,Surgical Ward
+10,Susan Walker,2024-07-05,Fractured arm,Dr. Smith,Orthopedic Ward
+11,Thomas Hill,2024-07-04,Heart attack,Dr. Lee,Cardiology Ward
+12,Mary Allen,2024-07-03,Influenza,Dr. Wilson,Respiratory Ward
+13,Christopher Young,2024-07-02,Diabetes,Dr. Garcia,Endocrinology Ward
+14,Laura King,2024-07-01,Concussion,Dr. Thompson,Neurology Ward
+15,Steven White,2024-06-30,Appendicitis,Dr. Johnson,Surgical Ward
+16,Amanda Harris,2024-06-29,Fractured leg,Dr. Smith,Orthopedic Ward
+17,Charles Green,2024-06-28,Heart attack,Dr. Lee,Cardiology Ward
+18,Jennifer Baker,2024-06-27,Pneumonia,Dr. Wilson,Respiratory Ward
+19,Daniel Cook,2024-06-26,Diabetes,Dr. Garcia,Endocrinology Ward
+20,Elizabeth Scott,2024-06-25,Concussion,Dr. Thompson,Neurology Ward

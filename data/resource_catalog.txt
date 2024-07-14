@@ -1,0 +1,39 @@
+Title: Patient Admission Records
+Type: Database
+Description: A comprehensive database containing records of all patient admissions, including personal details, admission dates, medical conditions, and assigned doctors.
+
+Title: Monthly Hospital Performance Report
+Type: Report
+Description: A detailed report analyzing the hospital's performance metrics for the month, including patient satisfaction scores, average length of stay, and readmission rates.
+
+Title: Surgical Procedures Dashboard
+Type: Dashboard
+Description: An interactive dashboard displaying real-time data on ongoing and scheduled surgical procedures, surgeon availability, and operating room occupancy.
+
+Title: Emergency Department Statistics
+Type: Database
+Description: A database capturing detailed information on all emergency department visits, including patient demographics, triage categories, treatment outcomes, and waiting times.
+
+Title: Annual Financial Report
+Type: Report
+Description: A comprehensive report detailing the hospital's financial performance over the past year, including revenue, expenses, funding sources, and budget allocations.
+
+Title: Patient Discharge Summary Documents
+Type: Document
+Description: Documents summarizing the medical care and treatment received by patients during their hospital stay, including discharge instructions and follow-up care recommendations.
+
+Title: Staff Scheduling Dashboard
+Type: Dashboard
+Description: A dashboard providing an overview of staff schedules, shift assignments, and staffing levels across various departments to ensure optimal coverage and resource allocation.
+
+Title: Medication Inventory Database
+Type: Database
+Description: A database tracking the hospital's inventory of medications, including stock levels, expiration dates, and reorder alerts to ensure a continuous supply of essential drugs.
+
+Title: Patient Satisfaction Survey Report
+Type: Report
+Description: A report summarizing the results of patient satisfaction surveys, highlighting key areas of improvement and patient feedback on their hospital experience.
+
+Title: Clinical Research Publications
+Type: Document
+Description: A collection of published research papers authored by hospital staff, covering various clinical studies, medical advancements, and research findings in healthcare.

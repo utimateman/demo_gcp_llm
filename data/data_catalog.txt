@@ -1,0 +1,13 @@
+Table Name: Patient Admission Records
+Description: This table contains records of patient admissions to the hospital, including patient details, admission dates, medical conditions, assigned doctors, and wards.
+
+Columns:
+- Patient ID: Unique identifier for each patient. (Integer)
+- Patient Name: Name of the patient admitted. (String)
+- Admission Date: Date when the patient was admitted to the hospital. (Date)
+- Medical Condition: Condition for which the patient was admitted. (String)
+- Assigned Doctor: Doctor assigned to oversee the patient's care. (String)
+- Ward: Hospital ward where the patient is admitted. (String)
+
+File Format: CSV
+Delimiter: Comma (,)
